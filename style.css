@@ -1,4 +1,7 @@
-* {
+
+.escola-titulo{
+    padding: 24px 0;
+}* {
     margin: 0;
     padding: 0;
 }
@@ -37,9 +40,6 @@
 
 .escola-div-conteudo{
     width: 35%;
-}
-.escola-titulo{
-    padding: 24px 0;
 }
 
 .estudante{
